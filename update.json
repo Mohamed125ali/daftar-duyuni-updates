@@ -1,19 +1,27 @@
 {
   "versionName": "1.1.1",
-  "versionCode": 47,
-  "apkUrl": "https://github.com/Mohamed125ali/daftar-duyuni-updates/releases/download/v1.1.1-test/DaftarDuyuni-1.1.1-47-test.apk",
-  "apkSize": 168416216,
-  "sha256": "115127b1a83c57fb6d019303859d861cfa1649a708d98816da58b4a87b57d0b9",
-  "releaseDate": "2026-10-06",
+  "versionCode": 48,
+  "apkUrl": "https://github.com/Mohamed125ali/daftar-duyuni-updates/releases/download/v1.1.1/DaftarDuyuni-1.1.1%2B48-universal-release.apk",
+  "apkSize": 61242254,
+  "sha256": "84ed8ef5456b4800be1630f93b753c7ef7076275d8d8e31c945d2061e4d481dc",
+  "releaseDate": "2026-10-08",
   "mandatory": false,
   "notesAr": [
-    "اختبار نظام التحديث الآمن B11.4",
-    "التحقق من تنزيل APK عبر HTTPS",
-    "التحقق من SHA-256 قبل التثبيت"
+    "تخصيص اسم النشاط والهوية في كشف الحساب ومستندات PDF",
+    "دليل الاستخدام وتجربة أول تشغيل",
+    "تحسين شاشة حول التطبيق وواجهة الاستخدام",
+    "فحص التحديثات وتنزيلها بأمان عبر HTTPS",
+    "التحقق من SHA-256 قبل التثبيت",
+    "تحسينات في الاستقرار والخصوصية والنسخ الاحتياطي",
+    "دعم العربية والإنجليزية"
   ],
   "notesEn": [
-    "B11.4 secure update system test",
-    "Verify APK download over HTTPS",
-    "Verify SHA-256 before installation"
+    "Custom document and PDF identity",
+    "First-run onboarding and usage guide",
+    "Improved About App screen and user interface",
+    "Secure HTTPS update checking and downloading",
+    "APK SHA-256 verification before installation",
+    "Stability, privacy, and backup improvements",
+    "Arabic and English support"
   ]
 }
