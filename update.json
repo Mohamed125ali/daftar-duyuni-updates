@@ -1,27 +1,25 @@
 {
-  "versionName": "1.1.1",
-  "versionCode": 48,
-  "apkUrl": "https://github.com/Mohamed125ali/daftar-duyuni-updates/releases/download/v1.1.1/DaftarDuyuni-1.1.1%2B48-universal-release.apk",
+  "versionName": "1.1.2",
+  "versionCode": 49,
+  "apkUrl": "https://github.com/Mohamed125ali/daftar-duyuni-updates/releases/download/v1.1.2/DaftarDuyuni-1.1.2%2B49-universal-release.apk",
   "apkSize": 61242254,
-  "sha256": "84ed8ef5456b4800be1630f93b753c7ef7076275d8d8e31c945d2061e4d481dc",
-  "releaseDate": "2026-10-08",
+  "sha256": "68c7401b15bf62e5892c46d140b638dc5faa601861c686ef3e5a3850346564f8",
+  "releaseDate": "2026-10-19",
   "mandatory": false,
   "notesAr": [
-    "تخصيص اسم النشاط والهوية في كشف الحساب ومستندات PDF",
-    "دليل الاستخدام وتجربة أول تشغيل",
-    "تحسين شاشة حول التطبيق وواجهة الاستخدام",
-    "فحص التحديثات وتنزيلها بأمان عبر HTTPS",
-    "التحقق من SHA-256 قبل التثبيت",
-    "تحسينات في الاستقرار والخصوصية والنسخ الاحتياطي",
-    "دعم العربية والإنجليزية"
+    "تحسين راحة العين بألوان هادئة وتباين متوازن",
+    "تحسين وضوح النصوص في الوضعين الفاتح والداكن",
+    "تحسين تسميات التنقل والإعدادات",
+    "اختيار رقم الهاتف الرئيسي أو الإضافي مباشرة من جهات الاتصال عبر الأيقونة الحالية",
+    "اختيار الرقم المحدد دون طلب صلاحية قراءة جميع جهات الاتصال",
+    "تحسينات على الاستقرار وسهولة الاستخدام"
   ],
   "notesEn": [
-    "Custom document and PDF identity",
-    "First-run onboarding and usage guide",
-    "Improved About App screen and user interface",
-    "Secure HTTPS update checking and downloading",
-    "APK SHA-256 verification before installation",
-    "Stability, privacy, and backup improvements",
-    "Arabic and English support"
+    "Calmer colors and balanced contrast for improved visual comfort",
+    "Improved text readability in Light and Dark modes",
+    "Clearer navigation labels and settings",
+    "Pick a primary or additional phone number directly from Android Contacts using the existing icons",
+    "Choose a specific number without broad contacts-reading permission",
+    "Stability and usability improvements"
   ]
 }
